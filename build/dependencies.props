@@ -37,6 +37,7 @@
     <MicrosoftAzureKeyVaultPackageVersion>2.3.2</MicrosoftAzureKeyVaultPackageVersion>
     <MicrosoftEntityFrameworkCoreInMemoryPackageVersion>2.1.0-preview2-28189</MicrosoftEntityFrameworkCoreInMemoryPackageVersion>
     <MicrosoftEntityFrameworkCoreRelationalPackageVersion>2.1.0-preview2-28189</MicrosoftEntityFrameworkCoreRelationalPackageVersion>
+    <MicrosoftEntityFrameworkCoreSqlitePackageVersion>2.1.0-preview2-28189</MicrosoftEntityFrameworkCoreSqlitePackageVersion>
     <MicrosoftEntityFrameworkCoreSqlServerPackageVersion>2.1.0-preview2-28189</MicrosoftEntityFrameworkCoreSqlServerPackageVersion>
     <MicrosoftEntityFrameworkCoreToolsDotNetPackageVersion>2.1.0-preview2-28189</MicrosoftEntityFrameworkCoreToolsDotNetPackageVersion>
     <MicrosoftEntityFrameworkCoreToolsPackageVersion>2.1.0-preview2-28189</MicrosoftEntityFrameworkCoreToolsPackageVersion>
